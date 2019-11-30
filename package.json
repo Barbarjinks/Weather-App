@@ -6,7 +6,7 @@
   "scripts": {
     "start": "webpack-dev-server",
     "test": "jest",
-    "build": "next build"
+    "build": "react-scripts build"
   },
   "keywords": [
     "react"
